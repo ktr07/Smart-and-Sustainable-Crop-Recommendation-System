@@ -1,4 +1,6 @@
 🌾 Crop Recommendation System Using Machine Learning 🤖
+
+
 🚀 Project Overview
 This project helps farmers choose the best crop to grow based on soil and weather conditions using Machine Learning. It analyzes soil nutrients (N, P, K), temperature, humidity, pH, and rainfall to recommend the ideal crop for maximum yield and sustainability. 🌱🌞🌧️
 
