@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #a8e063, #56ab2f);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+    background-color: #ffffffcc;
+    border-radius: 15px;
+}
+
+h1 {
+    color: #2f6627;
+}
+
+.btn-success {
+    background-color: #2f6627;
+    border-color: #2f6627;
+}
