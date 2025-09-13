@@ -3,7 +3,7 @@
 # 🌱 Smart and Sustainable Crop Recommendation System
 
 ## 🚀 Live Demo
-👉 [Click here](https://smart-and-sustainable-crop-zvgs.onrender.com)
+👉 [Click here](https://smart-and-sustainable-crop-7841.onrender.com/)
 
 ## 📌 GitHub Repo
 👉 [View Code](https://github.com/ktr07/Smart-and-Sustainable-Crop-Recommendation-System)
